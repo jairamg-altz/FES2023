@@ -1,0 +1,1418 @@
+/* screen - a19team */
+
+.a19team {
+  background-color: var(--white);
+  height: 2807px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.a19team .header_-post-login_-style-XG0YuK {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a19team .rectangle-mGPXHx {
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFFFFF 100%);
+  background-color: transparent;
+  box-shadow: 0px 2px 10px #00000009;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.a19team .avatar-mGPXHx {
+  background-color: transparent;
+  border-radius: 32px;
+  height: 64px;
+  left: 1302px;
+  overflow: hidden;
+  position: absolute;
+  top: 22px;
+  width: 64px;
+}
+
+.a19team .mask-yh79HD {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 64px;
+}
+
+.a19team .img-yh79HD {
+  background-color: transparent;
+  height: 84px;
+  left: -10px;
+  position: absolute;
+  top: -10px;
+  width: 80px;
+}
+
+.a19team .arrow_drop_down_black_24dp-mGPXHx {
+  background-color: transparent;
+  height: 24px;
+  left: 1381px;
+  position: absolute;
+  top: 100px;
+  width: 24px;
+}
+
+.a19team .path-8fKORw {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a19team .path-xQlQOg {
+  background-color: transparent;
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.a19team .my-project_bt-mGPXHx {
+  background-color: transparent;
+  height: 48px;
+  left: 1102px;
+  position: absolute;
+  top: 29px;
+  width: 146px;
+}
+
+.a19team .rectangle-6hpGM0 {
+  background-color: #eeeeee;
+  border-radius: 7px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 146px;
+}
+
+.a19team .logo-copy-2-6hpGM0 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: 20px;
+  left: 12px;
+  letter-spacing: 1.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.a19team .search-bar-mGPXHx {
+  background-color: transparent;
+  height: 45px;
+  left: 362px;
+  position: absolute;
+  top: 32px;
+  width: 494px;
+}
+
+.a19team .rectangle-sLHxS2 {
+  background-color: #f9f9f9;
+  border: 1px solid #e6e3e3;
+  border-radius: 5px;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 494px;
+}
+
+.a19team .logo-copy-2-sLHxS2 {
+  background-color: transparent;
+  color: #7c7c7c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .photo_camera_black_24dp-sLHxS2 {
+  background-color: transparent;
+  height: 24px;
+  left: 414px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a19team .path-2WNrja {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a19team .oval-2WNrja {
+  background-color: var(--black);
+  border-radius: 6px;
+  height: 6px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.a19team .shape-2WNrja {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.a19team .search_black_24dp-sLHxS2 {
+  background-color: transparent;
+  height: 24px;
+  left: 458px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a19team .path-Q39oUe {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a19team .shape-Q39oUe {
+  background-color: transparent;
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.a19team .add-observation-mGPXHx {
+  background-color: transparent;
+  height: 45px;
+  left: 880px;
+  position: absolute;
+  top: 32px;
+  width: 198px;
+}
+
+.a19team .rectangle-wf9oWN {
+  background-color: #010101;
+  border: 1px solid #e6e3e3;
+  border-radius: 5px;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 198px;
+}
+
+.a19team .arrow_drop_down_black_24dp-wf9oWN {
+  background-color: transparent;
+  height: 24px;
+  left: 169px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a19team .path-WwhlNv {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a19team .path-t189dq {
+  background-color: transparent;
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.a19team .logo-copy-2-wf9oWN {
+  background-color: transparent;
+  color: #7c7c7c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .path-6-wf9oWN {
+  background-color: transparent;
+  height: 46px;
+  left: 166px;
+  opacity: 0.39;
+  position: absolute;
+  top: -0px;
+  width: 2px;
+}
+
+.a19team .logo-mGPXHx {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 38px;
+  left: 49px;
+  letter-spacing: 4.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.a19team .logo-copy-mGPXHx {
+  background-color: transparent;
+  font-weight: 500;
+  height: 20px;
+  left: 361px;
+  letter-spacing: 1.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .span1-mxLkyF {
+  letter-spacing: 0.00px;
+}
+
+.a19team .span2-mxLkyF {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.a19team .span3-mxLkyF {
+  letter-spacing: 0.00px;
+}
+
+.a19team .span4-mxLkyF {
+  letter-spacing: 0.00px;
+}
+
+.a19team .span5-mxLkyF {
+  letter-spacing: 0.00px;
+}
+
+.a19team .span6-mxLkyF {
+  color: var(--quick-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+
+.a19team .span7-mxLkyF {
+  letter-spacing: 0.00px;
+}
+
+.a19team .logo-copy-2-mGPXHx {
+  background-color: transparent;
+  color: #0a0909;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+  height: 20px;
+  left: 1288px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .rectangle-XG0YuK {
+  background-color: #f3f3f3;
+  height: 2818px;
+  left: 0px;
+  position: absolute;
+  top: 460px;
+  width: 1440px;
+}
+
+.a19team .number-XG0YuK {
+  background-color: transparent;
+  height: 26px;
+  left: 1354px;
+  position: absolute;
+  top: 21px;
+  width: 26px;
+}
+
+.a19team .oval-cHoNP7 {
+  background-color: #54cb5f;
+  border: 1px solid #fffcfc;
+  border-radius: 26px;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.a19team .logo-copy-cHoNP7 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 14px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.a19team .bitmap-XG0YuK {
+  background-color: transparent;
+  height: 314px;
+  left: 0px;
+  position: absolute;
+  top: 146px;
+  width: 1440px;
+}
+
+.a19team .our-team-XG0YuK {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 67px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 72px;
+  position: absolute;
+  text-align: left;
+  top: 203px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .name-copy-XG0YuK {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-circularstd-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 144px;
+  left: 20px;
+  letter-spacing: 1.07px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 40px 50px #0000000d;
+  top: 303px;
+  width: auto;
+}
+
+.a19team .footer-XG0YuK {
+  background-color: transparent;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 2356px;
+  width: 1440px;
+}
+
+.a19team .footer-qVjxrx {
+  background-color: transparent;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a19team .rectangle-bwPGkG {
+  background-color: #f6f6f6;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a19team .group-4-copy-bwPGkG {
+  background-color: transparent;
+  height: 372px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a19team .rectangle-copy-5-vSWjTk {
+  background-color: transparent;
+  height: 570px;
+  left: -99px;
+  position: absolute;
+  top: -99px;
+  width: 1638px;
+}
+
+.a19team .all-rights-resesrved-qVjxrx {
+  background-color: transparent;
+  color: #131313;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 550px;
+  letter-spacing: 1.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 399px;
+  white-space: nowrap;
+  width: 340px;
+}
+
+.a19team .fes-qVjxrx {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-circularstd-bold);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a19team .group-5-qVjxrx {
+  background-color: transparent;
+  height: 211px;
+  left: 535px;
+  position: absolute;
+  top: 82px;
+  width: 619px;
+}
+
+.a19team .dashboard-species-0MuvYu {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-circularstd-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 620px;
+}
+
+.a19team .about-us-teams-faq-0MuvYu {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 90px;
+}
+
+.a19team .feedback-taxonomy-de-0MuvYu {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 115px;
+}
+
+.a19team .data-policy-terms-of-0MuvYu {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 419px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 90px;
+}
+
+.a19team .lorem-ipsum-dolor-si-qVjxrx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 142px;
+  width: 358px;
+}
+
+.a19team .facebook-qVjxrx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a19team .instagram-qVjxrx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 209px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a19team .twitter-qVjxrx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 276px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a19team .path-5-qVjxrx {
+  background-color: transparent;
+  height: 2px;
+  left: 534px;
+  position: absolute;
+  top: 130px;
+  width: 511px;
+}
+
+.a19team .path-5-copy-qVjxrx {
+  background-color: transparent;
+  height: 3px;
+  left: 110px;
+  position: absolute;
+  top: 128px;
+  width: 47px;
+}
+
+.a19team .facebook-2-qVjxrx {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 130px;
+  width: 45px;
+}
+
+.a19team .instagram-L283kW {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 198px;
+  width: 45px;
+}
+
+.a19team .twitter-L283kW {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 265px;
+  width: 45px;
+}
+
+.a19team .team-card-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 78px;
+  position: absolute;
+  top: 538px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-cxuXd3 {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-cxuXd3 {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-zjlLrd {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-cxuXd3 {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-cxuXd3 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-cxuXd3 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}
+
+.a19team .team-card-copy-3-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 78px;
+  position: absolute;
+  top: 1144px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-3s02aY {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-3s02aY {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-PpfcwT {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-3s02aY {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-3s02aY {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-3s02aY {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}
+
+.a19team .team-card-copy-6-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 78px;
+  position: absolute;
+  top: 1750px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-zXos2i {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-zXos2i {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-hmxnI5 {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-zXos2i {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-zXos2i {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-zXos2i {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}
+
+.a19team .team-card-copy-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 539px;
+  position: absolute;
+  top: 538px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-0WIy73 {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-0WIy73 {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-mBn9GZ {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-0WIy73 {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-0WIy73 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-0WIy73 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}
+
+.a19team .team-card-copy-4-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 539px;
+  position: absolute;
+  top: 1144px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-RLlOhW {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-RLlOhW {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-q447Si {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-RLlOhW {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-RLlOhW {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-RLlOhW {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}
+
+.a19team .team-card-copy-7-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 539px;
+  position: absolute;
+  top: 1750px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-q5L2yc {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-q5L2yc {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-Z2Rx8K {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-q5L2yc {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-q5L2yc {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-q5L2yc {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}
+
+.a19team .team-card-copy-2-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 1000px;
+  position: absolute;
+  top: 538px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-dmYT0m {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-dmYT0m {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-Z2LF8T {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-dmYT0m {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-dmYT0m {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-dmYT0m {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}
+
+.a19team .team-card-copy-5-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 1000px;
+  position: absolute;
+  top: 1144px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-7m4FEz {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-7m4FEz {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-WFkmv2 {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-7m4FEz {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-7m4FEz {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-7m4FEz {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}
+
+.a19team .team-card-copy-8-XG0YuK {
+  background-color: transparent;
+  height: 528px;
+  left: 1000px;
+  position: absolute;
+  top: 1750px;
+  width: 362px;
+}
+
+.a19team .rectangle-copy-4-bmalc8 {
+  background-color: var(--white);
+  border-radius: 33px;
+  height: 528px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 362px;
+}
+
+.a19team .img-bmalc8 {
+  background-color: transparent;
+  height: 230px;
+  left: 66px;
+  position: absolute;
+  top: 55px;
+  width: 230px;
+}
+
+.a19team .img-63IbNF {
+  background-color: transparent;
+  height: 230px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 230px;
+}
+
+.a19team .name-bmalc8 {
+  background-color: transparent;
+  font-weight: 600;
+  height: 34px;
+  left: 51px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 317px;
+  width: 261px;
+}
+
+.a19team .degree-bmalc8 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 28px;
+  left: 146px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: center;
+  top: 348px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a19team .description-bmalc8 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 393px;
+  width: 277px;
+}

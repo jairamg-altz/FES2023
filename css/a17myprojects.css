@@ -1,0 +1,2284 @@
+/* screen - a17myprojects */
+
+.a17myprojects {
+  background-color: var(--white);
+  height: 2650px;
+  /*overflow-x: hidden;*/
+  position: relative;
+  width: fit-content;
+}
+
+.a17myprojects .header_-post-login_-style-JjLWw3 {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a17myprojects .rectangle-Lm1JuN {
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFFFFF 100%);
+  background-color: transparent;
+  box-shadow: 0px 2px 10px #00000009;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.a17myprojects .avatar-Lm1JuN {
+  background-color: transparent;
+  border-radius: 32px;
+  height: 64px;
+  left: 1302px;
+  overflow: hidden;
+  position: absolute;
+  top: 22px;
+  width: 64px;
+}
+
+.a17myprojects .mask-ADBIfY {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 64px;
+}
+
+.a17myprojects .img-ADBIfY {
+  background-color: transparent;
+  height: 84px;
+  left: -10px;
+  position: absolute;
+  top: -10px;
+  width: 80px;
+}
+
+.a17myprojects .arrow_drop_down_black_24dp-Lm1JuN {
+  background-color: transparent;
+  height: 24px;
+  left: 1381px;
+  position: absolute;
+  top: 100px;
+  width: 24px;
+}
+
+.a17myprojects .path-BFUswA {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-vdceHw {
+  background-color: transparent;
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.a17myprojects .my-project_bt-Lm1JuN {
+  background-color: transparent;
+  height: 48px;
+  left: 1102px;
+  position: absolute;
+  top: 29px;
+  width: 146px;
+}
+
+.a17myprojects .rectangle-fcdYDU {
+  background-color: #eeeeee;
+  border-radius: 7px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 146px;
+}
+
+.a17myprojects .logo-copy-2-fcdYDU {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 20px;
+  left: 12px;
+  letter-spacing: 1.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.a17myprojects .search-bar-Lm1JuN {
+  background-color: transparent;
+  height: 45px;
+  left: 362px;
+  position: absolute;
+  top: 32px;
+  width: 494px;
+}
+
+.a17myprojects .rectangle-IUJCgA {
+  background-color: #f9f9f9;
+  border: 1px solid #e6e3e3;
+  border-radius: 5px;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 494px;
+}
+
+.a17myprojects .logo-copy-2-IUJCgA {
+  background-color: transparent;
+  color: #7c7c7c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a17myprojects .photo_camera_black_24dp-IUJCgA {
+  background-color: transparent;
+  height: 24px;
+  left: 414px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a17myprojects .path-Vg7u6e {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .oval-Vg7u6e {
+  background-color: var(--black);
+  border-radius: 6px;
+  height: 6px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.a17myprojects .shape-Vg7u6e {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.a17myprojects .search_black_24dp-IUJCgA {
+  background-color: transparent;
+  height: 24px;
+  left: 458px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a17myprojects .path-hEJNUw {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-hEJNUw {
+  background-color: transparent;
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.a17myprojects .add-observation-Lm1JuN {
+  background-color: transparent;
+  height: 45px;
+  left: 880px;
+  position: absolute;
+  top: 32px;
+  width: 198px;
+}
+
+.a17myprojects .rectangle-yxsuHq {
+  background-color: #010101;
+  border: 1px solid #e6e3e3;
+  border-radius: 5px;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 198px;
+}
+
+.a17myprojects .arrow_drop_down_black_24dp-yxsuHq {
+  background-color: transparent;
+  height: 24px;
+  left: 169px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a17myprojects .path-CjrYxM {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-VDd9S0 {
+  background-color: transparent;
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.a17myprojects .logo-copy-2-yxsuHq {
+  background-color: transparent;
+  color: #7c7c7c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a17myprojects .path-6-yxsuHq {
+  background-color: transparent;
+  height: 46px;
+  left: 166px;
+  opacity: 0.39;
+  position: absolute;
+  top: -0px;
+  width: 2px;
+}
+
+.a17myprojects .logo-Lm1JuN {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 38px;
+  left: 49px;
+  letter-spacing: 4.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.a17myprojects .logo-copy-Lm1JuN {
+  background-color: transparent;
+  color: var(--quick-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 361px;
+  letter-spacing: 1.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a17myprojects .span1-4Rznek {
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.a17myprojects .span2-4Rznek {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.00px;
+}
+
+.a17myprojects .span3-4Rznek {
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.00px;
+}
+
+.a17myprojects .logo-copy-2-Lm1JuN {
+  background-color: transparent;
+  color: #0a0909;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: 20px;
+  left: 1288px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a17myprojects .rectangle-JjLWw3 {
+  background-color: #f3f3f3;
+  height: 2550px;
+  left: 0px;
+  position: absolute;
+  top: 146px;
+  width: 1440px;
+}
+
+.a17myprojects .line-JjLWw3 {
+  background-color: transparent;
+  height: 2px;
+  left: 66px;
+  position: absolute;
+  top: 598px;
+  width: 1307px;
+}
+
+.a17myprojects .line-copy-3-JjLWw3 {
+  background-color: transparent;
+  height: 2px;
+  left: 66px;
+  position: absolute;
+  top: 1870px;
+  width: 1307px;
+}
+
+.a17myprojects .project_01-JjLWw3 {
+  background-color: transparent;
+  height: 289px;
+  left: 55px;
+  position: relative;
+  top: 641px;
+  width: 1331px;
+}
+
+.a17myprojects .content-2VQSOf {
+  background-color: transparent;
+  height: 58px;
+  left: 465px;
+  position: absolute;
+  top: 164px;
+  width: 841px;
+}
+
+.a17myprojects .line-copy-EFL6vX {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 842px;
+}
+
+.a17myprojects .line-copy-2-EFL6vX {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 56px;
+  width: 842px;
+}
+
+.a17myprojects .public-EFL6vX {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.a17myprojects .contributors-12-EFL6vX {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-erespw {
+}
+
+.a17myprojects .span2-erespw {
+}
+
+.a17myprojects .total-entries-46-EFL6vX {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-ICbK1Q {
+}
+
+.a17myprojects .span2-ICbK1Q {
+}
+
+.a17myprojects .help-scientists-unde-2VQSOf {
+  background-color: transparent;
+  font-weight: 500;
+  height: 39px;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 866px;
+}
+
+.a17myprojects .we-are-excited-for-c-2VQSOf {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 841px;
+}
+
+.a17myprojects .contribute-2VQSOf {
+  background-color: transparent;
+  height: 24px;
+  left: 575px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .contribute-ltczGF {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .handshake_black_24dp-ltczGF {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .group-aVNtAV {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-aVNtAV {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.a17myprojects .contribute-copy-2VQSOf {
+  background-color: transparent;
+  height: 24px;
+  left: 729px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .properties-xumo87 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .import_contacts_black_24dp-xumo87 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-NLvl0n {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-NLvl0n {
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 22px;
+}
+
+.a17myprojects .contribute-copy-2-2VQSOf {
+  background-color: transparent;
+  height: 24px;
+  left: 883px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .delete-rAzDYM {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .delete_black_24dp-rAzDYM {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-o3vC61 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-o3vC61 {
+  background-color: transparent;
+  height: 18px;
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+
+.a17myprojects .view-2VQSOf {
+  background-color: transparent;
+  height: 24px;
+  left: 465px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .label-view-cxKIqv {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .visibility_black_24dp-cxKIqv {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-gxLvIv {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-gxLvIv {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.a17myprojects .project_01-copy-JjLWw3 {
+  background-color: transparent;
+  height: 289px;
+  left: 55px;
+  position: absolute;
+  top: 1011px;
+  width: 1331px;
+}
+
+.a17myprojects .content-MBTxXo {
+  background-color: transparent;
+  height: 58px;
+  left: 465px;
+  position: absolute;
+  top: 164px;
+  width: 841px;
+}
+
+.a17myprojects .line-copy-778U4X {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 842px;
+}
+
+.a17myprojects .line-copy-2-778U4X {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 56px;
+  width: 842px;
+}
+
+.a17myprojects .public-778U4X {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.a17myprojects .contributors-12-778U4X {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-YDHzRC {
+}
+
+.a17myprojects .span2-YDHzRC {
+}
+
+.a17myprojects .total-entries-46-778U4X {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-bIyzxE {
+}
+
+.a17myprojects .span2-bIyzxE {
+}
+
+.a17myprojects .the-worlds-most-dan-MBTxXo {
+  background-color: transparent;
+  font-weight: 500;
+  height: 39px;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 866px;
+}
+
+.a17myprojects .we-are-excited-for-c-MBTxXo {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 841px;
+}
+
+.a17myprojects .contribute-MBTxXo {
+  background-color: transparent;
+  height: 24px;
+  left: 575px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .contribute-eHP4YU {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .handshake_black_24dp-eHP4YU {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .group-d4gxJZ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-d4gxJZ {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.a17myprojects .contribute-copy-MBTxXo {
+  background-color: transparent;
+  height: 24px;
+  left: 729px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .properties-dxOobq {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .import_contacts_black_24dp-dxOobq {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-bx5FKU {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-bx5FKU {
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 22px;
+}
+
+.a17myprojects .contribute-copy-2-MBTxXo {
+  background-color: transparent;
+  height: 24px;
+  left: 883px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .delete-Bngqnu {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .delete_black_24dp-Bngqnu {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-DHxJSz {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-DHxJSz {
+  background-color: transparent;
+  height: 18px;
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+
+.a17myprojects .view-MBTxXo {
+  background-color: transparent;
+  height: 24px;
+  left: 465px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .label-view-sJ3jT5 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .visibility_black_24dp-sJ3jT5 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-E7LOaG {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-E7LOaG {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.a17myprojects .project_01-copy-2-JjLWw3 {
+  background-color: transparent;
+  height: 289px;
+  left: 55px;
+  position: absolute;
+  top: 1380px;
+  width: 1331px;
+}
+
+.a17myprojects .content-S36piB {
+  background-color: transparent;
+  height: 58px;
+  left: 465px;
+  position: absolute;
+  top: 164px;
+  width: 841px;
+}
+
+.a17myprojects .line-copy-kvxMlJ {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 842px;
+}
+
+.a17myprojects .line-copy-2-kvxMlJ {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 56px;
+  width: 842px;
+}
+
+.a17myprojects .public-kvxMlJ {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.a17myprojects .contributors-12-kvxMlJ {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-iiYnEM {
+}
+
+.a17myprojects .span2-iiYnEM {
+}
+
+.a17myprojects .total-entries-46-kvxMlJ {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-Qpx68J {
+}
+
+.a17myprojects .span2-Qpx68J {
+}
+
+.a17myprojects .help-scientists-unde-S36piB {
+  background-color: transparent;
+  font-weight: 500;
+  height: 39px;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 866px;
+}
+
+.a17myprojects .we-are-excited-for-c-S36piB {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 841px;
+}
+
+.a17myprojects .contribute-S36piB {
+  background-color: transparent;
+  height: 24px;
+  left: 575px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .contribute-FG0NBN {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .handshake_black_24dp-FG0NBN {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .group-b5UpP1 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-b5UpP1 {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.a17myprojects .contribute-copy-S36piB {
+  background-color: transparent;
+  height: 24px;
+  left: 729px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .properties-AMjyGx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .import_contacts_black_24dp-AMjyGx {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-j9xAuv {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-j9xAuv {
+  background-color: transparent;
+  height: 17px;
+  left: 1px;
+  position: absolute;
+  top: 5px;
+  width: 22px;
+}
+
+.a17myprojects .contribute-copy-2-S36piB {
+  background-color: transparent;
+  height: 24px;
+  left: 883px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .delete-MljnYO {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .delete_black_24dp-MljnYO {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-IIh3kV {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-IIh3kV {
+  background-color: transparent;
+  height: 18px;
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+
+.a17myprojects .view-S36piB {
+  background-color: transparent;
+  height: 24px;
+  left: 465px;
+  position: absolute;
+  top: 241px;
+  width: 123px;
+}
+
+.a17myprojects .label-view-SWx1sY {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .visibility_black_24dp-SWx1sY {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-Y06c0w {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-Y06c0w {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.a17myprojects .project_01-copy-3-JjLWw3 {
+  background-color: transparent;
+  height: 289px;
+  left: 55px;
+  position: absolute;
+  top: 1935px;
+  width: 1331px;
+}
+
+.a17myprojects .content-0KVGwX {
+  background-color: transparent;
+  height: 58px;
+  left: 465px;
+  position: absolute;
+  top: 164px;
+  width: 841px;
+}
+
+.a17myprojects .line-copy-LFtYnG {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 842px;
+}
+
+.a17myprojects .line-copy-2-LFtYnG {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 56px;
+  width: 842px;
+}
+
+.a17myprojects .public-LFtYnG {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.a17myprojects .contributors-12-LFtYnG {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-I1Hgfx {
+}
+
+.a17myprojects .span2-I1Hgfx {
+}
+
+.a17myprojects .total-entries-46-LFtYnG {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-TBrazR {
+}
+
+.a17myprojects .span2-TBrazR {
+}
+
+.a17myprojects .help-scientists-unde-0KVGwX {
+  background-color: transparent;
+  font-weight: 500;
+  height: 39px;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 866px;
+}
+
+.a17myprojects .we-are-excited-for-c-0KVGwX {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 841px;
+}
+
+.a17myprojects .contribute-0KVGwX {
+  background-color: transparent;
+  height: 24px;
+  left: 575px;
+  position: absolute;
+  top: 247px;
+  width: 123px;
+}
+
+.a17myprojects .contribute-3uUMSF {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .handshake_black_24dp-3uUMSF {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .group-Ii9J4n {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-Ii9J4n {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.a17myprojects .view-0KVGwX {
+  background-color: transparent;
+  height: 24px;
+  left: 465px;
+  position: absolute;
+  top: 247px;
+  width: 123px;
+}
+
+.a17myprojects .label-view-iAKuDU {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .visibility_black_24dp-iAKuDU {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-ekX9NM {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-ekX9NM {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.a17myprojects .avatar-0KVGwX {
+  background-color: transparent;
+  border-radius: 18px;
+  box-shadow: 0px 10px 20px #00000026;
+  height: 36px;
+  left: 1097px;
+  overflow: hidden;
+  position: absolute;
+  top: 241px;
+  width: 36px;
+}
+
+.a17myprojects .mask-qnhyru {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+
+.a17myprojects .img-qnhyru {
+  background-color: transparent;
+  height: 41px;
+  left: -3px;
+  position: absolute;
+  top: -2px;
+  width: 41px;
+}
+
+.a17myprojects .name-0KVGwX {
+  background-color: transparent;
+  font-weight: 500;
+  height: 22px;
+  left: 1143px;
+  letter-spacing: 0.29px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 248px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a17myprojects .project_01-copy-4-JjLWw3 {
+  background-color: transparent;
+  height: 289px;
+  left: 55px;
+  position: absolute;
+  top: 2288px;
+  width: 1331px;
+}
+
+.a17myprojects .content-ehtutZ {
+  background-color: transparent;
+  height: 58px;
+  left: 465px;
+  position: absolute;
+  top: 164px;
+  width: 841px;
+}
+
+.a17myprojects .line-copy-8BYUhx {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: -0px;
+  width: 842px;
+}
+
+.a17myprojects .line-copy-2-8BYUhx {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  position: absolute;
+  top: 56px;
+  width: 842px;
+}
+
+.a17myprojects .public-8BYUhx {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.a17myprojects .contributors-12-8BYUhx {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-Dk4dYu {
+}
+
+.a17myprojects .span2-Dk4dYu {
+}
+
+.a17myprojects .total-entries-46-8BYUhx {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 264px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.a17myprojects .span1-axjZ9S {
+}
+
+.a17myprojects .span2-axjZ9S {
+}
+
+.a17myprojects .help-scientists-unde-ehtutZ {
+  background-color: transparent;
+  font-weight: 500;
+  height: 39px;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 866px;
+}
+
+.a17myprojects .we-are-excited-for-c-ehtutZ {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 58px;
+  width: 841px;
+}
+
+.a17myprojects .contribute-ehtutZ {
+  background-color: transparent;
+  height: 24px;
+  left: 575px;
+  position: absolute;
+  top: 247px;
+  width: 123px;
+}
+
+.a17myprojects .contribute-CJBaXx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .handshake_black_24dp-CJBaXx {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .group-ZaIyNo {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-ZaIyNo {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 20px;
+}
+
+.a17myprojects .view-ehtutZ {
+  background-color: transparent;
+  height: 24px;
+  left: 465px;
+  position: absolute;
+  top: 247px;
+  width: 123px;
+}
+
+.a17myprojects .label-view-Y9HEMs {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 93px;
+}
+
+.a17myprojects .visibility_black_24dp-Y9HEMs {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .path-e88kzQ {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a17myprojects .shape-e88kzQ {
+  background-color: transparent;
+  height: 15px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+
+.a17myprojects .avatar-ehtutZ {
+  background-color: transparent;
+  border-radius: 18px;
+  box-shadow: 0px 10px 20px #00000026;
+  height: 36px;
+  left: 1097px;
+  overflow: hidden;
+  position: absolute;
+  top: 241px;
+  width: 36px;
+}
+
+.a17myprojects .mask-M6hWYI {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+
+.a17myprojects .img-M6hWYI {
+  background-color: transparent;
+  height: 41px;
+  left: -3px;
+  position: absolute;
+  top: -2px;
+  width: 41px;
+}
+
+.a17myprojects .name-ehtutZ {
+  background-color: transparent;
+  font-weight: 500;
+  height: 22px;
+  left: 1143px;
+  letter-spacing: 0.29px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 248px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a17myprojects .bitmap-JjLWw3 {
+  background-color: transparent;
+  height: 314px;
+  left: 0px;
+  position: absolute;
+  top: 146px;
+  width: 1440px;
+}
+
+.a17myprojects .title-JjLWw3 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 67px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 72px;
+  position: absolute;
+  text-align: left;
+  top: 203px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a17myprojects .name-copy-JjLWw3 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-circularstd-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 144px;
+  left: 20px;
+  letter-spacing: 1.07px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 40px 50px #0000000d;
+  top: 303px;
+  width: 779px;
+}
+
+.a17myprojects .group-6-JjLWw3 {
+  background-color: transparent;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 2641px;
+  width: 1440px;
+}
+
+.a17myprojects .footer-9qfMTx {
+  background-color: transparent;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a17myprojects .rectangle-ML7EMx {
+  background-color: #f6f6f6;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a17myprojects .group-4-copy-ML7EMx {
+  background-color: transparent;
+  height: 372px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a17myprojects .rectangle-copy-5-66kaRS {
+  background-color: transparent;
+  height: 570px;
+  left: -99px;
+  position: absolute;
+  top: -99px;
+  width: 1638px;
+}
+
+.a17myprojects .all-rights-resesrved-9qfMTx {
+  background-color: transparent;
+  color: #131313;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 550px;
+  letter-spacing: 1.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 399px;
+  white-space: nowrap;
+  width: 340px;
+}
+
+.a17myprojects .fes-9qfMTx {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-circularstd-bold);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a17myprojects .group-5-9qfMTx {
+  background-color: transparent;
+  height: 211px;
+  left: 535px;
+  position: absolute;
+  top: 82px;
+  width: 619px;
+}
+
+.a17myprojects .dashboard-species-zwKcuo {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-circularstd-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 620px;
+}
+
+.a17myprojects .about-us-teams-faq-zwKcuo {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 90px;
+}
+
+.a17myprojects .feedback-taxonomy-de-zwKcuo {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 115px;
+}
+
+.a17myprojects .data-policy-terms-of-zwKcuo {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 419px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 90px;
+}
+
+.a17myprojects .lorem-ipsum-dolor-si-9qfMTx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 142px;
+  width: 358px;
+}
+
+.a17myprojects .facebook-9qfMTx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a17myprojects .instagram-9qfMTx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 209px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a17myprojects .twitter-9qfMTx {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 276px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a17myprojects .path-5-9qfMTx {
+  background-color: transparent;
+  height: 2px;
+  left: 534px;
+  position: absolute;
+  top: 130px;
+  width: 511px;
+}
+
+.a17myprojects .path-5-copy-9qfMTx {
+  background-color: transparent;
+  height: 3px;
+  left: 110px;
+  position: absolute;
+  top: 128px;
+  width: 47px;
+}
+
+.a17myprojects .facebook-2-9qfMTx {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 130px;
+  width: 45px;
+}
+
+.a17myprojects .instagram-ddnwPN {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 198px;
+  width: 45px;
+}
+
+.a17myprojects .twitter-ddnwPN {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 265px;
+  width: 45px;
+}
+
+.a17myprojects .number-JjLWw3 {
+  background-color: transparent;
+  height: 26px;
+  left: 1354px;
+  position: absolute;
+  top: 21px;
+  width: 26px;
+}
+
+.a17myprojects .oval-cA8eoB {
+  background-color: #54cb5f;
+  border: 1px solid #fffcfc;
+  border-radius: 26px;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.a17myprojects .logo-copy-cA8eoB {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: 14px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.a17myprojects .start-posting-JjLWw3 {
+  background-color: transparent;
+  height: 66px;
+  left: 1145px;
+  position: absolute;
+  top: 495px;
+  width: 227px;
+}
+
+.a17myprojects .button-ijevFi {
+  background-color: transparent;
+  height: 66px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 227px;
+}
+
+.a17myprojects .rectangle-8-cG4W8E {
+  background: linear-gradient(135deg, #31B155 0%, #255A9B 100%);
+  background-color: transparent;
+  border-radius: 9px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.a17myprojects .create-project-cG4W8E {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  height: 18px;
+  left: 35px;
+  letter-spacing: 2.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  white-space: nowrap;
+  width: 157px;
+}
+
+.a17myprojects .logo-copy-4-JjLWw3 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 54px;
+  left: 66px;
+  letter-spacing: 1.42px;
+  line-height: 51px;
+  position: absolute;
+  text-align: left;
+  top: 509px;
+  white-space: nowrap;
+  width: 321px;
+}
+
+/*a17myprojects .logo-copy-5-JjLWw3 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+  height: 54px;
+  left: 66px;
+  letter-spacing: 1.42px;
+  line-height: 51px;
+  position: absolute;
+  text-align: left;
+  top: 1775px;
+  white-space: nowrap;
+  width: 498px;
+}*/

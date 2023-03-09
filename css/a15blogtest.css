@@ -1,0 +1,2359 @@
+/* screen - a15blog */
+
+.a15blog {
+  background-color: var(--white);
+  height: 2960px;
+  /*overflow-x: hidden;*/
+  /*position: relative;*/
+  width: 1440px;
+}
+
+.a15blog .header_-post-login_-style-v6axIx {
+  background-color: transparent;
+  height: 146px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a15blog .rectangle-x3sob7 {
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFFFFF 100%);
+  background-color: transparent;
+  box-shadow: 0px 2px 10px #00000009;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.a15blog .rectangle-IKHLHs {
+  background-color: transparent;
+  height: 8px;
+  left: 1025px;
+  position: absolute;
+  top: 138px;
+  width: 68px;
+}
+
+.a15blog .avatar-x3sob7 {
+  background-color: transparent;
+  border-radius: 32px;
+  height: 64px;
+  left: 1302px;
+  overflow: hidden;
+  position: absolute;
+  top: 22px;
+  width: 64px;
+}
+
+.a15blog .mask-61svjl {
+  background-color: transparent;
+  height: 64px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 64px;
+}
+
+.a15blog .img-61svjl {
+  background-color: transparent;
+  height: 84px;
+  left: -10px;
+  position: absolute;
+  top: -10px;
+  width: 80px;
+}
+
+.a15blog .arrow_drop_down_black_24dp-x3sob7 {
+  background-color: transparent;
+  height: 24px;
+  left: 1381px;
+  position: absolute;
+  top: 100px;
+  width: 24px;
+}
+
+.a15blog .path-XXmcJr {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a15blog .path-HQWfUE {
+  background-color: transparent;
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.a15blog .my-project_bt-x3sob7 {
+  background-color: transparent;
+  height: 48px;
+  left: 1102px;
+  position: absolute;
+  top: 29px;
+  width: 146px;
+}
+
+.a15blog .rectangle-xakqfF {
+  background-color: #eeeeee;
+  border-radius: 7px;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 146px;
+}
+
+.a15blog .logo-copy-2-xakqfF {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: 20px;
+  left: 12px;
+  letter-spacing: 1.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 122px;
+}
+
+.a15blog .search-bar-x3sob7 {
+  background-color: transparent;
+  height: 45px;
+  left: 362px;
+  position: absolute;
+  top: 32px;
+  width: 494px;
+}
+
+.a15blog .rectangle-j4uZm1 {
+  background-color: #f9f9f9;
+  border: 1px solid #e6e3e3;
+  border-radius: 5px;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 494px;
+}
+
+.a15blog .logo-copy-2-j4uZm1 {
+  background-color: transparent;
+  color: #7c7c7c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .photo_camera_black_24dp-j4uZm1 {
+  background-color: transparent;
+  height: 24px;
+  left: 414px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a15blog .path-v5CduT {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a15blog .oval-v5CduT {
+  background-color: var(--black);
+  border-radius: 6px;
+  height: 6px;
+  left: 9px;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.a15blog .shape-v5CduT {
+  background-color: transparent;
+  height: 18px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 20px;
+}
+
+.a15blog .search_black_24dp-j4uZm1 {
+  background-color: transparent;
+  height: 24px;
+  left: 458px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a15blog .path-8TBSXX {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a15blog .shape-8TBSXX {
+  background-color: transparent;
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.a15blog .add-observation-x3sob7 {
+  background-color: transparent;
+  height: 45px;
+  left: 880px;
+  position: absolute;
+  top: 32px;
+  width: 198px;
+}
+
+.a15blog .rectangle-FMd29n {
+  background-color: #010101;
+  border: 1px solid #e6e3e3;
+  border-radius: 5px;
+  height: 45px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 198px;
+}
+
+.a15blog .arrow_drop_down_black_24dp-FMd29n {
+  background-color: transparent;
+  height: 24px;
+  left: 169px;
+  position: absolute;
+  top: 11px;
+  width: 24px;
+}
+
+.a15blog .path-5MeBh4 {
+  background-color: transparent;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 24px;
+}
+
+.a15blog .path-jiMct7 {
+  background-color: transparent;
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.a15blog .logo-copy-2-FMd29n {
+  background-color: transparent;
+  color: #7c7c7c;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  left: 15px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .path-6-FMd29n {
+  background-color: transparent;
+  height: 46px;
+  left: 166px;
+  opacity: 0.39;
+  position: absolute;
+  top: -0px;
+  width: 2px;
+}
+
+.a15blog .logo-x3sob7 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: 38px;
+  left: 49px;
+  letter-spacing: 4.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 54px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.a15blog .logo-copy-x3sob7 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 20px;
+  left: 361px;
+  letter-spacing: 1.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .span1-q9TMoT {
+  letter-spacing: 0.00px;
+}
+
+.a15blog .span2-q9TMoT {
+  letter-spacing: 0.00px;
+}
+
+.a15blog .span3-q9TMoT {
+  letter-spacing: 0.00px;
+}
+
+.a15blog .span4-q9TMoT {
+  letter-spacing: 0.00px;
+}
+
+.a15blog .span5-q9TMoT {
+  color: #adadad;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  letter-spacing: 0.00px;
+}
+
+.a15blog .span6-q9TMoT {
+  letter-spacing: 0.00px;
+}
+
+.a15blog .span7-q9TMoT {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+}
+
+.a15blog .logo-copy-2-x3sob7 {
+  background-color: transparent;
+  color: #0a0909;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+  height: 20px;
+  left: 1288px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .rectangle-v6axIx {
+  background-color: #f3f3f3;
+  /*height: 3399px;*/
+  left: 0px;
+  position: absolute;
+  top: 460px;
+  width: 1440px;
+}
+
+.a15blog .number-v6axIx {
+  background-color: transparent;
+  height: 26px;
+  left: 1354px;
+  position: absolute;
+  top: 21px;
+  width: 26px;
+}
+
+.a15blog .oval-9QYOeZ {
+  background-color: #54cb5f;
+  border: 1px solid #fffcfc;
+  border-radius: 26px;
+  height: 26px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+
+.a15blog .logo-copy-9QYOeZ {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: 14px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 16px;
+}
+
+.a15blog .bitmap-v6axIx {
+  background-color: transparent;
+  height: 314px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 146px;
+  width: 1440px;
+}
+
+.a15blog .mask-4c7NBy {
+  background: linear-gradient(90deg, #31B155 16%, #24589C 100%);
+  background-color: transparent;
+  height: 314px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a15blog .bitmap-4c7NBy {
+  background-color: transparent;
+  height: 1178px;
+  left: 0px;
+  position: absolute;
+  top: -188px;
+  width: 1767px;
+}
+
+.a15blog .title-v6axIx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  height: 67px;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: 72px;
+  position: absolute;
+  text-align: left;
+  top: 198px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .name-copy-v6axIx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-circularstd-medium);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  height: 113px;
+  left: 21px;
+  letter-spacing: 1.07px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 40px 50px #0000000d;
+  top: 265px;
+  width: auto;
+}
+
+.a15blog .post-v6axIx {
+  background-color: transparent;
+  height: 794px;
+  left: 66px;
+  position: absolute;
+  top: 335px;
+  width: 920px;
+}
+
+.a15blog .post_01-hoUeo9 {
+  background-color: transparent;
+  height: 794px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 920px;
+}
+
+.a15blog .rectangle-rjCt2h {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #f5f5f7;
+  height: 794px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 920px;
+}
+
+.a15blog .the-iridescent-shimm-rjCt2h {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 625px;
+  width: 870px;
+}
+
+.a15blog .span1-tSyiSB {
+}
+
+.a15blog .span2-tSyiSB {
+  text-decoration: underline;
+}
+
+.a15blog .group-2-rjCt2h {
+  background-color: transparent;
+  height: 78px;
+  left: 24px;
+  position: absolute;
+  top: 123px;
+  width: 871px;
+}
+
+.a15blog .path-2-copy-8-C7JtKY {
+  background-color: transparent;
+  height: 872px;
+  left: 434px;
+  opacity: 0.2;
+  position: absolute;
+  top: -360px;
+  transform: rotate(-90deg);
+  width: 3px;
+}
+
+.a15blog .avatar-C7JtKY {
+  background-color: transparent;
+  border-radius: 24px;
+  box-shadow: 0px 10px 20px #00000026;
+  height: 48px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.a15blog .mask-tQPq0F {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.a15blog .img-tQPq0F {
+  background-color: transparent;
+  height: 55px;
+  left: -4px;
+  position: absolute;
+  top: -3px;
+  width: 55px;
+}
+
+.a15blog .share-C7JtKY {
+  background-color: transparent;
+  height: 30px;
+  left: 775px;
+  position: absolute;
+  top: 9px;
+  width: 95px;
+}
+
+.a15blog .share-2Zbm2r {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.a15blog .group-8b9oTj {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  position: relative;
+  top: 5px;
+  transform: rotate(-270deg);
+  width: 18px;
+}
+
+.a15blog .oval-3takrs {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: 10px;
+  position: absolute;
+  top: 12px;
+  width: 9px;
+}
+
+.a15blog .oval-iLJI1d {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 9px;
+}
+
+.a15blog .oval-r8YfLb {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+
+.a15blog .name-copy-3-2Zbm2r {
+  background-color: transparent;
+  font-weight: 400;
+  height: 24px;
+  left: 41px;
+  letter-spacing: 0.32px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .name-C7JtKY {
+  background-color: transparent;
+  font-weight: 500;
+  height: 44px;
+  left: 79px;
+  letter-spacing: 0.32px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: auto;
+}
+
+.a15blog .span1-pszyXQ {
+  letter-spacing: 0.00px;
+  line-height: 22px;
+}
+
+.a15blog .span2-pszyXQ {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .span3-pszyXQ {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .span4-pszyXQ {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .like-C7JtKY {
+  background-color: transparent;
+  height: 30px;
+  left: 657px;
+  position: absolute;
+  top: 9px;
+  width: 73px;
+}
+
+.a15blog .name-copy-2-z0vUNs {
+  background-color: transparent;
+  font-weight: 400;
+  height: 24px;
+  left: 39px;
+  letter-spacing: 0.32px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .like-z0vUNs {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.a15blog .group-u5rxgO {
+  background-color: transparent;
+  height: 17px;
+  left: 6px;
+  position: relative;
+  top: 7px;
+  width: 19px;
+}
+
+.a15blog .shape-xXUex2 {
+  background-color: transparent;
+  height: 23px;
+  left: -3px;
+  position: absolute;
+  top: -3px;
+  width: 25px;
+}
+
+.a15blog .birds-dazzling-irid-rjCt2h {
+  background-color: transparent;
+  font-weight: 500;
+  height: 78px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: 866px;
+}
+
+.a15blog .img-1-rjCt2h {
+  background-color: transparent;
+  border-radius: 21px;
+  height: 375px;
+  left: 23px;
+  overflow: hidden;
+  position: absolute;
+  top: 226px;
+  width: 866px;
+}
+
+.a15blog .mask-xEXoDp {
+  background-color: var(--iron);
+  border-radius: 21px;
+  height: 375px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 866px;
+}
+
+.a15blog .bitmap-xEXoDp {
+  background-color: transparent;
+  height: 866px;
+  left: 0px;
+  position: absolute;
+  top: -123px;
+  width: 868px;
+}
+
+.a15blog .follows-v6axIx {
+  background-color: transparent;
+  height: 422px;
+  left: 1028px;
+  position: absolute;
+  top: 330px;
+  width: 370px;
+}
+
+.a15blog .logo-copy-3-jxRxke {
+  background-color: transparent;
+  font-weight: 600;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.a15blog .blog-post_list_style-jxRxke {
+  background-color: transparent;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 42px;
+  width: 370px;
+}
+
+.a15blog .rectangle-F5Q2B3 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.a15blog .avatar-F5Q2B3 {
+  background-color: transparent;
+  border-radius: 11px;
+  height: 22px;
+  left: 143px;
+  overflow: hidden;
+  position: absolute;
+  top: 73px;
+  width: 22px;
+}
+
+.a15blog .mask-UxFnM3 {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.a15blog .img-UxFnM3 {
+  background-color: transparent;
+  height: 22px;
+  left: -2px;
+  position: absolute;
+  top: -1px;
+  width: 26px;
+}
+
+.a15blog .birds-dazzling-irid-F5Q2B3 {
+  background-color: transparent;
+  font-weight: 400;
+  height: 51px;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 208px;
+}
+
+.a15blog .bitmap-F5Q2B3 {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 82px;
+  left: 13px;
+  overflow: hidden;
+  position: absolute;
+  top: 14px;
+  width: 115px;
+}
+
+.a15blog .mask-Idevqe {
+  background-color: var(--iron);
+  border-radius: 15px;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 115px;
+}
+
+.a15blog .bitmap-Idevqe {
+  background-color: transparent;
+  height: 180px;
+  left: -24px;
+  position: absolute;
+  top: -50px;
+  width: 161px;
+}
+
+.a15blog .by-amruta-arora-F5Q2B3 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 22px;
+  left: 172px;
+  letter-spacing: 0.21px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .blog-post_list_style-copy-jxRxke {
+  background-color: transparent;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 177px;
+  width: 370px;
+}
+
+.a15blog .rectangle-c5CtEY {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.a15blog .avatar-c5CtEY {
+  background-color: transparent;
+  border-radius: 11px;
+  height: 22px;
+  left: 143px;
+  overflow: hidden;
+  position: absolute;
+  top: 73px;
+  width: 22px;
+}
+
+.a15blog .mask-hRMx4O {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.a15blog .img-hRMx4O {
+  background-color: transparent;
+  height: 22px;
+  left: -2px;
+  position: absolute;
+  top: -1px;
+  width: 26px;
+}
+
+.a15blog .birds-dazzling-irid-c5CtEY {
+  background-color: transparent;
+  font-weight: 400;
+  height: 51px;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 208px;
+}
+
+.a15blog .bitmap-c5CtEY {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 82px;
+  left: 13px;
+  overflow: hidden;
+  position: absolute;
+  top: 14px;
+  width: 115px;
+}
+
+.a15blog .mask-TqiUdv {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 82px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 115px;
+}
+
+.a15blog .by-amruta-arora-c5CtEY {
+  background-color: transparent;
+  font-weight: 500;
+  height: 22px;
+  left: 172px;
+  letter-spacing: 0.21px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .blog-post_list_style-copy-2-jxRxke {
+  background-color: transparent;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 312px;
+  width: 370px;
+}
+
+.a15blog .rectangle-xLNdRP {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+
+.a15blog .avatar-xLNdRP {
+  background-color: transparent;
+  border-radius: 11px;
+  height: 22px;
+  left: 143px;
+  overflow: hidden;
+  position: absolute;
+  top: 73px;
+  width: 22px;
+}
+
+.a15blog .mask-YQIBrt {
+  background-color: transparent;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.a15blog .img-YQIBrt {
+  background-color: transparent;
+  height: 22px;
+  left: -2px;
+  position: absolute;
+  top: -1px;
+  width: 26px;
+}
+
+.a15blog .birds-dazzling-irid-xLNdRP {
+  background-color: transparent;
+  font-weight: 400;
+  height: 51px;
+  left: 143px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 208px;
+}
+
+.a15blog .bitmap-xLNdRP {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 82px;
+  left: 13px;
+  overflow: hidden;
+  position: absolute;
+  top: 14px;
+  width: 115px;
+}
+
+.a15blog .mask-T2RhPf {
+  background-color: transparent;
+  border-radius: 15px;
+  height: 82px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 115px;
+}
+
+.a15blog .by-amruta-arora-xLNdRP {
+  background-color: transparent;
+  font-weight: 500;
+  height: 22px;
+  left: 172px;
+  letter-spacing: 0.21px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 73px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .most-active-v6axIx {
+  background-color: transparent;
+  height: 397px;
+  left: 1028px;
+  position: absolute;
+  top: 1548px;
+  width: 375px;
+}
+
+.a15blog .path-6-a022zZ {
+  background-color: transparent;
+  height: 3px;
+  left: -0px;
+  position: absolute;
+  top: 46px;
+  width: 376px;
+}
+
+.a15blog .path-6-e6ZlcQ {
+  background-color: transparent;
+  height: 3px;
+  left: -0px;
+  position: absolute;
+  top: 116px;
+  width: 376px;
+}
+
+.a15blog .path-6-TZC1ab {
+  background-color: transparent;
+  height: 3px;
+  left: -0px;
+  position: absolute;
+  top: 186px;
+  width: 376px;
+}
+
+.a15blog .path-6-UkSOv8 {
+  background-color: transparent;
+  height: 3px;
+  left: -0px;
+  position: absolute;
+  top: 256px;
+  width: 376px;
+}
+
+.a15blog .path-6-QXlEaf {
+  background-color: transparent;
+  height: 3px;
+  left: -0px;
+  position: absolute;
+  top: 324px;
+  width: 376px;
+}
+
+.a15blog .path-6-mzGzfK {
+  background-color: transparent;
+  height: 3px;
+  left: -0px;
+  position: absolute;
+  top: 394px;
+  width: 376px;
+}
+
+.a15blog .logo-copy-3-a022zZ {
+  background-color: transparent;
+  font-weight: 600;
+  height: 25px;
+  left: 0px;
+  letter-spacing: 1.25px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.a15blog .forest-lorem-a022zZ {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.a15blog .desert-lorem-a022zZ {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 141px;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.a15blog .foreign-lorem-a022zZ {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 209px;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.a15blog .visiting-lorem-a022zZ {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 279px;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.a15blog .winter-lorem-a022zZ {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 351px;
+  white-space: nowrap;
+  width: 307px;
+}
+
+.a15blog .latest-v6axIx {
+  background-color: transparent;
+  height: 206px;
+  left: 1028px;
+  position: absolute;
+  top: 1058px;
+  width: 374px;
+}
+
+.a15blog .observation_01-copy-3ylvV4 {
+  background-color: transparent;
+  height: 206px;
+  left: 195px;
+  position: absolute;
+  top: 0px;
+  width: 179px;
+}
+
+.a15blog .bg-vHUc5M {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #00000010;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 179px;
+}
+
+.a15blog .lorem-ipsum-is-simpl-vHUc5M {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 144px;
+}
+
+.a15blog .bitmap-vHUc5M {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 105px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 158px;
+}
+
+.a15blog .mask-ukUPV7 {
+  background-color: transparent;
+  height: 205px;
+  left: -50px;
+  position: absolute;
+  top: -50px;
+  width: 258px;
+}
+
+.a15blog .observation_01-3ylvV4 {
+  background-color: transparent;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 179px;
+}
+
+.a15blog .bg-FC9MfW {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #00000010;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 179px;
+}
+
+.a15blog .lorem-ipsum-is-simpl-FC9MfW {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 144px;
+}
+
+.a15blog .bitmap-FC9MfW {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 105px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 158px;
+}
+
+.a15blog .mask-K1Gu5D {
+  background-color: transparent;
+  height: 205px;
+  left: -50px;
+  position: absolute;
+  top: -50px;
+  width: 258px;
+}
+
+.a15blog .logo-copy-4-v6axIx {
+  background-color: transparent;
+  font-weight: 600;
+  height: 25px;
+  left: 1028px;
+  letter-spacing: 1.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1010px;
+  white-space: nowrap;
+  width: 245px;
+}
+
+.a15blog .latest-copy-v6axIx {
+  background-color: transparent;
+  height: 206px;
+  left: 1028px;
+  position: absolute;
+  top: 1280px;
+  width: 374px;
+}
+
+.a15blog .observation_01-copy-35vMTm {
+  background-color: transparent;
+  height: 206px;
+  left: 195px;
+  position: absolute;
+  top: 0px;
+  width: 179px;
+}
+
+.a15blog .bg-EMEaQm {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #00000010;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 179px;
+}
+
+.a15blog .lorem-ipsum-is-simpl-EMEaQm {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 144px;
+}
+
+.a15blog .bitmap-EMEaQm {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 105px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 158px;
+}
+
+.a15blog .mask-xflORB {
+  background-color: transparent;
+  height: 205px;
+  left: -50px;
+  position: absolute;
+  top: -50px;
+  width: 258px;
+}
+
+.a15blog .observation_01-35vMTm {
+  background-color: transparent;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 179px;
+}
+
+.a15blog .bg-vW3YzP {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #00000010;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 179px;
+}
+
+.a15blog .lorem-ipsum-is-simpl-vW3YzP {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 144px;
+}
+
+.a15blog .bitmap-vW3YzP {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 105px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 158px;
+}
+
+.a15blog .mask-OOZdgA {
+  background-color: transparent;
+  height: 205px;
+  left: -50px;
+  position: absolute;
+  top: -50px;
+  width: 258px;
+}
+
+.a15blog .post-copy-v6axIx {
+  background-color: transparent;
+  height: 763px;
+  left: 66px;
+  position: absolute;
+  top: 1378px;
+  width: 920px;
+}
+
+.a15blog .post_01-H37mzb {
+  background-color: transparent;
+  height: 763px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 920px;
+}
+
+.a15blog .rectangle-AAqCzU {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #f5f5f7;
+  height: 763px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 920px;
+}
+
+.a15blog .the-iridescent-shimm-AAqCzU {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 588px;
+  width: 870px;
+}
+
+.a15blog .span1-NAyulO {
+}
+
+.a15blog .span2-NAyulO {
+  text-decoration: underline;
+}
+
+.a15blog .group-2-AAqCzU {
+  background-color: transparent;
+  height: 78px;
+  left: 24px;
+  position: absolute;
+  top: 102px;
+  width: 871px;
+}
+
+.a15blog .path-2-copy-8-wbv4J9 {
+  background-color: transparent;
+  height: 872px;
+  left: 434px;
+  opacity: 0.2;
+  position: absolute;
+  top: -360px;
+  transform: rotate(-90deg);
+  width: 3px;
+}
+
+.a15blog .avatar-wbv4J9 {
+  background-color: transparent;
+  border-radius: 24px;
+  box-shadow: 0px 10px 20px #00000026;
+  height: 48px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.a15blog .mask-iFBA5b {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.a15blog .img-iFBA5b {
+  background-color: transparent;
+  height: 55px;
+  left: -4px;
+  position: absolute;
+  top: -3px;
+  width: 55px;
+}
+
+.a15blog .share-wbv4J9 {
+  background-color: transparent;
+  height: 30px;
+  left: 775px;
+  position: absolute;
+  top: 9px;
+  width: 95px;
+}
+
+.a15blog .share-xjjx98 {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.a15blog .group-iVD263 {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  position: relative;
+  top: 5px;
+  transform: rotate(-270deg);
+  width: 18px;
+}
+
+.a15blog .oval-IZv6jT {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: 10px;
+  position: absolute;
+  top: 12px;
+  width: 9px;
+}
+
+.a15blog .oval-W8k17r {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 9px;
+}
+
+.a15blog .oval-nAF2Yl {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+
+.a15blog .name-copy-3-xjjx98 {
+  background-color: transparent;
+  font-weight: 400;
+  height: 24px;
+  left: 41px;
+  letter-spacing: 0.32px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .name-wbv4J9 {
+  background-color: transparent;
+  font-weight: 500;
+  height: 44px;
+  left: 79px;
+  letter-spacing: 0.32px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: auto;
+}
+
+.a15blog .span1-k6Iz2g {
+  letter-spacing: 0.00px;
+  line-height: 22px;
+}
+
+.a15blog .span2-k6Iz2g {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .span3-k6Iz2g {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .span4-k6Iz2g {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .like-wbv4J9 {
+  background-color: transparent;
+  height: 30px;
+  left: 657px;
+  position: absolute;
+  top: 9px;
+  width: 73px;
+}
+
+.a15blog .name-copy-2-MTLHlx {
+  background-color: transparent;
+  font-weight: 400;
+  height: 24px;
+  left: 39px;
+  letter-spacing: 0.32px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .like-MTLHlx {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.a15blog .group-RcWGaq {
+  background-color: transparent;
+  height: 17px;
+  left: 6px;
+  position: relative;
+  top: 7px;
+  width: 19px;
+}
+
+.a15blog .shape-8aFLxi {
+  background-color: transparent;
+  height: 23px;
+  left: -3px;
+  position: absolute;
+  top: -3px;
+  width: 25px;
+}
+
+.a15blog .bto-produces-new-cli-AAqCzU {
+  background-color: transparent;
+  font-weight: 500;
+  height: 39px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  white-space: nowrap;
+  width: 866px;
+}
+
+.a15blog .img-1-AAqCzU {
+  background-color: transparent;
+  border-radius: 21px;
+  height: 375px;
+  left: 23px;
+  overflow: hidden;
+  position: absolute;
+  top: 179px;
+  width: 866px;
+}
+
+.a15blog .mask-5DFpWQ {
+  background-color: var(--iron);
+  border-radius: 21px;
+  height: 375px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 866px;
+}
+
+.a15blog .bitmap-5DFpWQ {
+  background-color: transparent;
+  height: 606px;
+  left: -40px;
+  position: absolute;
+  top: -153px;
+  width: 906px;
+}
+
+.a15blog .post-copy-2-v6axIx {
+  background-color: transparent;
+  height: 804px;
+  left: 66px;
+  position: absolute;
+  top: 2193px;
+  width: 920px;
+}
+
+.a15blog .post_01-rOIak2 {
+  background-color: transparent;
+  height: 804px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 920px;
+}
+
+.a15blog .rectangle-YWBr6g {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 0px 50px #f5f5f7;
+  height: 804px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 920px;
+}
+
+.a15blog .hawaii-is-the-bird-YWBr6g {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 617px;
+  width: 870px;
+}
+
+.a15blog .span1-NL1gBY {
+}
+
+.a15blog .span2-NL1gBY {
+  text-decoration: underline;
+}
+
+.a15blog .group-2-YWBr6g {
+  background-color: transparent;
+  height: 78px;
+  left: 24px;
+  position: absolute;
+  top: 136px;
+  width: 871px;
+}
+
+.a15blog .path-2-copy-8-ExTGcl {
+  background-color: transparent;
+  height: 872px;
+  left: 434px;
+  opacity: 0.2;
+  position: absolute;
+  top: -360px;
+  transform: rotate(-90deg);
+  width: 3px;
+}
+
+.a15blog .avatar-ExTGcl {
+  background-color: transparent;
+  border-radius: 24px;
+  box-shadow: 0px 10px 20px #00000026;
+  height: 48px;
+  left: 11px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.a15blog .mask-kIZWI0 {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+
+.a15blog .img-kIZWI0 {
+  background-color: transparent;
+  height: 55px;
+  left: -4px;
+  position: absolute;
+  top: -3px;
+  width: 55px;
+}
+
+.a15blog .share-ExTGcl {
+  background-color: transparent;
+  height: 30px;
+  left: 775px;
+  position: absolute;
+  top: 9px;
+  width: 95px;
+}
+
+.a15blog .share-S4YSXz {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.a15blog .group-twChoc {
+  background-color: transparent;
+  height: 20px;
+  left: 6px;
+  position: relative;
+  top: 5px;
+  transform: rotate(-270deg);
+  width: 18px;
+}
+
+.a15blog .oval-i5MgH3 {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: 10px;
+  position: absolute;
+  top: 12px;
+  width: 9px;
+}
+
+.a15blog .oval-YO7Tsq {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: 10px;
+  position: absolute;
+  top: -1px;
+  width: 9px;
+}
+
+.a15blog .oval-eZJ9pO {
+  background-color: transparent;
+  border-radius: 7px;
+  height: 9px;
+  left: -1px;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+
+.a15blog .name-copy-3-S4YSXz {
+  background-color: transparent;
+  font-weight: 400;
+  height: 24px;
+  left: 41px;
+  letter-spacing: 0.32px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .name-ExTGcl {
+  background-color: transparent;
+  font-weight: 500;
+  height: 44px;
+  left: 79px;
+  letter-spacing: 0.32px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1px;
+  width: auto;
+}
+
+.a15blog .span1-MNZJE0 {
+  letter-spacing: 0.00px;
+  line-height: 22px;
+}
+
+.a15blog .span2-MNZJE0 {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .span3-MNZJE0 {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .span4-MNZJE0 {
+  letter-spacing: 0.25px;
+  line-height: 22px;
+}
+
+.a15blog .like-ExTGcl {
+  background-color: transparent;
+  height: 30px;
+  left: 657px;
+  position: absolute;
+  top: 9px;
+  width: 73px;
+}
+
+.a15blog .name-copy-2-kxrMAE {
+  background-color: transparent;
+  font-weight: 400;
+  height: 24px;
+  left: 39px;
+  letter-spacing: 0.32px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.a15blog .like-kxrMAE {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+
+.a15blog .group-uBJOU8 {
+  background-color: transparent;
+  height: 17px;
+  left: 6px;
+  position: relative;
+  top: 7px;
+  width: 19px;
+}
+
+.a15blog .shape-blWjPv {
+  background-color: transparent;
+  height: 23px;
+  left: -3px;
+  position: absolute;
+  top: -3px;
+  width: 25px;
+}
+
+.a15blog .last-chance-report-YWBr6g {
+  background-color: transparent;
+  font-weight: 500;
+  height: 78px;
+  left: 27px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: 866px;
+}
+
+.a15blog .img-1-YWBr6g {
+  background-color: transparent;
+  border-radius: 21px;
+  height: 375px;
+  left: 23px;
+  overflow: hidden;
+  position: absolute;
+  top: 213px;
+  width: 866px;
+}
+
+.a15blog .mask-l8eTXS {
+  background-color: var(--iron);
+  border-radius: 21px;
+  height: 375px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 866px;
+}
+
+.a15blog .bitmap-l8eTXS {
+  background-color: transparent;
+  height: 866px;
+  left: -36px;
+  position: absolute;
+  top: -197px;
+  width: 1035px;
+}
+
+.a15blog .footer-v6axIx {
+  background-color: transparent;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 3069px;
+  width: 1440px;
+}
+
+.a15blog .footer-plcqER {
+  background-color: transparent;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a15blog .rectangle-6lsVBC {
+  background-color: #f6f6f6;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a15blog .group-4-copy-6lsVBC {
+  background-color: transparent;
+  height: 372px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+
+.a15blog .rectangle-copy-5-u2cZ8a {
+  background-color: transparent;
+  height: 570px;
+  left: -99px;
+  position: absolute;
+  top: -99px;
+  width: 1638px;
+}
+
+.a15blog .all-rights-resesrved-plcqER {
+  background-color: transparent;
+  color: #131313;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 550px;
+  letter-spacing: 1.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 399px;
+  white-space: nowrap;
+  width: 340px;
+}
+
+.a15blog .fes-plcqER {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-circularstd-bold);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 43px;
+  position: absolute;
+  text-align: left;
+  top: 70px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a15blog .group-5-plcqER {
+  background-color: transparent;
+  height: 211px;
+  left: 535px;
+  position: absolute;
+  top: 82px;
+  width: 619px;
+}
+
+.a15blog .dashboard-species-G1yvV8 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-circularstd-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 620px;
+}
+
+.a15blog .about-us-teams-faq-G1yvV8 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 90px;
+}
+
+.a15blog .feedback-taxonomy-de-G1yvV8 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 172px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 115px;
+}
+
+.a15blog .data-policy-terms-of-G1yvV8 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 419px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 85px;
+  width: 90px;
+}
+
+.a15blog .lorem-ipsum-dolor-si-plcqER {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 111px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 142px;
+  width: 358px;
+}
+
+.a15blog .facebook-plcqER {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a15blog .instagram-plcqER {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 209px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a15blog .twitter-plcqER {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 1176px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 276px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.a15blog .path-5-plcqER {
+  background-color: transparent;
+  height: 2px;
+  left: 534px;
+  position: absolute;
+  top: 130px;
+  width: 511px;
+}
+
+.a15blog .path-5-copy-plcqER {
+  background-color: transparent;
+  height: 3px;
+  left: 110px;
+  position: absolute;
+  top: 128px;
+  width: 47px;
+}
+
+.a15blog .facebook-2-plcqER {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 130px;
+  width: 45px;
+}
+
+.a15blog .instagram-38PW3O {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 198px;
+  width: 45px;
+}
+
+.a15blog .twitter-38PW3O {
+  background-color: transparent;
+  height: 45px;
+  left: 1116px;
+  position: absolute;
+  top: 265px;
+  width: 45px;
+}

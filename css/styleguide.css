@@ -1,0 +1,86 @@
+:root { 
+  --black: #000000;
+  --comet: #535d79;
+  --link-water: #dae0f4;
+  --quick-silver: #a4a4a4;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 14px;
+  --font-size-s: 13px;
+  --font-size-xl: 17px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 26px;
+ 
+  --font-family-circularstd-bold: "CircularStd-Bold", Helvetica;
+  --font-family-circularstd-book: "CircularStd-Book", Helvetica;
+  --font-family-circularstd-medium: "CircularStd-Medium", Helvetica;
+  --font-family-helvetica: "Helvetica", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-semi-bold-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.poppins-medium-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-quick-silver-14px {
+  color: var(--quick-silver);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.circularstd-book-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-circularstd-book);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.circularstd-book-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-circularstd-book);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helvetica-normal-comet-22-2px {
+  color: var(--comet);
+  font-family: var(--font-family-helvetica);
+  font-size: 22.2px;
+}
+
+.border-1-4px-link-water {
+  border: 1.4px solid var(--link-water);
+}
